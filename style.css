@@ -1,0 +1,266 @@
+* {
+	
+	margin:0px;
+	padding:0px;
+}
+ 
+body {
+	background:#f2f2f2;
+	color:#333;
+	font-family:Arial, helvetica, sans-serif;
+}
+
+a {
+	text-decoration: none;
+	color:#F24C27;
+}
+
+.wrapp {
+	float: lef;
+	width:100%;
+	overflow: hidden;
+   
+}
+
+
+.header{
+    width: 100%;
+    height: 15vh;
+    background-color: rgb(228, 82, 15);
+    
+}
+header .titulo{
+    float: left;
+    width: 30%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+header .logo{
+    float: left;
+    width: 40%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+header .logo img{
+    width: 10vw;
+}
+header .input{
+    float: left;
+    width: 30%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+    header{
+        height: 10vh;
+        width: 100%;
+    }
+    header .titulo{
+        width: 30%;
+        height: 100%;
+    }
+    header .logo{
+        width: 30%;
+        height: 100%;
+    }
+    header .logo img{   
+        width: 7vw;
+    }
+    header .input{
+        width: 40%;
+        height: 100%;
+    
+    }
+    .slogan{  
+        font-size: 1vw;
+        height: 100%;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 2vw;
+    }
+
+
+
+nav {
+	float: right;
+}
+
+nav ul li {
+	display: inline-block;
+	margin:0px 5px;
+}
+
+
+  
+  
+  
+  footer {
+    background-color: #292c2f;
+     width: 100%;
+     height: 100%;
+  }
+    footer .titulo2{
+        background-color: #f2f2f2;        
+        width: 30%;
+        float: right;
+        height: 100%;
+      display: flex;
+      justify-content: center;
+      
+    }
+    footer .espacio{
+        background-color: #f2f2f2;  
+        width: 40%;
+        float: right;
+        height: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    footer .direc{
+        background-color: #f2f2f2;  
+        width: 30%;
+        float: center;        
+        height: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+  
+
+ 
+
+.mensaje {
+	background:#F24C27;
+	
+	color:#fff;
+    width: 100%;
+
+	
+}
+
+.articulo {
+	float: right;
+	width: 50%;
+	padding:0px 20px 20px 0px;
+}
+
+aside {
+	width: 40%;
+	height: 40%;
+	background:#024959;
+	color:#fff;
+	padding: 1px;
+	border-radius:5px;
+}
+
+.widget ul {
+    float: right;
+    color: black;
+}
+
+.widget ul li {
+	margin:100px 0;
+	width: 100%;
+}
+
+.widget ul li a {
+   color: black;
+}
+
+.widget ul li a:hover {
+	text-decoration: underline;
+}
+.uno{
+	float: left;
+    filter: brightness(1.1);
+    mix-blend-mode: multiply;
+    width: 30%;
+}
+.dos{
+	float: center;
+    filter: brightness(1.1);
+    mix-blend-mode: multiply;
+    width: 40%;
+}
+.tres{
+	float: right;
+    filter: brightness(1.1);
+    mix-blend-mode: multiply;
+    width: 30%;
+}
+.table{
+    width: 70%;
+    float: right;
+}
+.encabezado{
+    width: 50%;
+    float: left;
+}
+
+
+
+nav{
+    height: 100%;
+    width: 100%;
+}
+nav .celular{
+    width: 30%;
+    float: left;
+    height: 100%;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+nav .direccion{
+    width: 40%;
+    float: center;
+    height: 100%;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+nav .correo{
+    width: 30%;
+    float: right;
+    height: 100%;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.ac{
+    width: 30%;
+    float: left;
+    height: 100%;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.ab {
+    width: 40%;
+    float: center;
+    height: 100%;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+
+} 
+.ad {
+    width: 30%;
+    float: right;
+    height: 100%;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+
+}  

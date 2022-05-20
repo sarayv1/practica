@@ -1,0 +1,36 @@
+* { 
+	margin: 0; 
+	padding: 0; 
+}
+body { 
+	font: 14px Georgia, Serif; 
+}
+#page-wrap {
+	margin: 50px;
+}
+p{
+	margin: 20px 0; 
+}
+
+	
+	table { 
+		width:50%; 
+		border-collapse: collapse; 
+		float: right;
+	}
+	
+	tr{ 
+		background: #eee; 
+	}
+	th { 
+		background: #333; 
+		color: white; 
+		font-weight: bold; 
+	}
+	td, th { 
+		
+		
+		text-align: center; 
+	}
+	
+	
